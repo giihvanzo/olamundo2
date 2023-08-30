@@ -3,7 +3,7 @@
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-imagem{width: 20%;}
-.cabecalho-lista-item{display: inline-block;margin: 0% 16px;}
+.cabecalho-lista-item{display:inline-block;margin: 0% 16px;}
 .imagem-escola {width: 25%;}
 .escola{background-image:linear-gradient(rgb(5, 199, 199),rgba(124, 85, 231, 0.61));color: aliceblue;display: flex;}
 .escola-conteudo{width:35%;}
